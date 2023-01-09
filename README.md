@@ -2,6 +2,9 @@
 <h3 align="center">Diving face first into the world of coding, and saving every moment of it here.</h3>
 
 <p align="left"> This is Izza Mujeeb Ahmad, a software engineer in the making while currently completing my bachelor's degree from FAST-NUCES, Lahore. I'm a huge fan of being able to utilize all that I learn to solve real world problems, no matter how small they might be and to use my coding skills to achieve that. I aim to explore all domains that interest me from web and app development to data science and machine learning, and I'm glad I have a way to document everything I do along the way! </p>
+
+</br>
+<p align="center"> Drop a follow and I'll follow you back, let's learn together! </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-coder12&label=Profile%20views&color=0e75b6&style=flat" alt="dark-coder12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-coder12" alt="dark-coder12" /></a> </p>
