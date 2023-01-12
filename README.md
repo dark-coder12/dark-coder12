@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-coder12" alt="dark-coder12" /></a> </p>
 
 
-- 📄 I just started writing at: **https://medium.com/@l201314**
+- 📄 I just started writing at: **https://medium.com/@izzamujeebahmad**
 - 🌱 I’m currently learning: **ReactJS, Data Science and Machine Learning.**
 
 - 📫 I'm just an email away: **khanizza29@gmail.com**
